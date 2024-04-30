@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1,test
+#EXTVLCOPT:input-slave=https://gitee.com/lihuosheng/test/raw/master/01.m4a
+https://gitee.com/lihuosheng/test/raw/master/01.mp4
