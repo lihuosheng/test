@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",URI="https://gitee.com/lihuosheng/test/raw/master/01.m4a"
-#EXT-X-STREAM-INF:AUDIO="audio"
-https://gitee.com/lihuosheng/test/raw/master/01.mp4
