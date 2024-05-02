@@ -9,4 +9,4 @@
 `vlc "https://gitee.com/lihuosheng/test/raw/master/test.m3u"`
 
 ### VLC plays with no video and no sound as follows
-`vlc "https://gitee.com/lihuosheng/test/raw/master/test.m3u"`
+`vlc "https://gitee.com/lihuosheng/test/raw/master/test.m3u8"`
