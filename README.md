@@ -9,4 +9,4 @@
 `vlc "https://gitee.com/lihuosheng/test/raw/master/test.m3u"`
 
 ### VLC 如下播放无图象无声音
-`vlc "https://gitee.com/lihuosheng/test/raw/master/test.m3u"`
+`vlc "https://gitee.com/lihuosheng/test/raw/master/test.m3u8"`
